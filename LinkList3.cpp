@@ -1,4 +1,4 @@
-// Insertion at the end
+// Insertion at the end in singly Link List
 #include <iostream>
 using namespace std;
 
