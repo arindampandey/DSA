@@ -1,4 +1,4 @@
-// Insertion after a given position
+// Insertion after a given position in singly LinkList
 #include <iostream>
 using namespace std;
 struct Node
