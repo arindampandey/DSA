@@ -1,4 +1,4 @@
-// Implementation or Creation of a LinkList
+// Implementation or Creation of a Singly LinkList
 #include <iostream>
 using namespace std;
 int main()
