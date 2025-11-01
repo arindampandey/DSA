@@ -1,4 +1,4 @@
-// Delete element from end
+// Delete element from end in singly LinkList
 #include <iostream>
 using namespace std;
 struct Node
