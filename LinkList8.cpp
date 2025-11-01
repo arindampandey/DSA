@@ -1,4 +1,4 @@
-// Finding the length of a Link List
+// Finding the length of a singly Link List
 #include <iostream>
 using namespace std;
 struct Node
