@@ -1,4 +1,4 @@
-// Insertion at beginning
+// Insertion at beginning in a singly Link List
 #include <iostream>
 using namespace std;
 
