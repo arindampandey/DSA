@@ -1,4 +1,4 @@
-// Delete element after a specific position
+// Delete element after a specific position in a singly LinkList
 #include <iostream>
 using namespace std;
 struct Node
