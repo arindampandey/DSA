@@ -1,4 +1,4 @@
-// Reversing the Link List
+// Reversing the Singly Link List
 #include <iostream>
 using namespace std;
 struct Node
