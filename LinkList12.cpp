@@ -1,4 +1,4 @@
-// Insertion at end
+// Insertion at end in Doubly Linked List
 #include <iostream>
 using namespace std;
 struct Node
