@@ -1,4 +1,4 @@
-// Insertion at a specific position
+// Insertion at a specific position in Doubly Linked List
 #include <iostream>
 using namespace std;
 struct Node
