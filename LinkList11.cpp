@@ -1,4 +1,4 @@
-// Insertion at beginning 
+// Insertion at beginning in doubly Linked List
 #include <iostream>
 using namespace std;
 struct Node
