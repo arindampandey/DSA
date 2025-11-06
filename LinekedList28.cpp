@@ -1,4 +1,4 @@
-// Reversing of a Singly LinkedList
+// Reversing of a Singly Circular LinkedList
 #include <iostream>
 using namespace std;
 
