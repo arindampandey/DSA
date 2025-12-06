@@ -1,4 +1,4 @@
-// Pre-Order , In-Order and Post-Order Traversal of a Binary Tree
+// Pre-Order , In-Order and Post-Order Traversal of a Binary Tree.
 #include <iostream>
 using namespace std;
 
