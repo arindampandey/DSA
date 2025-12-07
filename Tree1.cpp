@@ -1,4 +1,4 @@
-// Implementation of a Binary Tree
+// Implementation of a Binary Tree.
 #include <iostream>
 using namespace std;
 
