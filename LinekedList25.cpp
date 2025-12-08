@@ -1,4 +1,4 @@
-// Delete element from beginning in a Singly Circular LinkedList
+// Delete element from beginning in a Singly Circular LinkedList.
 #include <iostream>
 using namespace std;
 
